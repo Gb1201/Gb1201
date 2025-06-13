@@ -51,7 +51,7 @@ Tenho facilidade em aprender e gosto de construir projetos práticos e funcionai
 ### 📫 Como falar comigo
 
 - Email: gabi.coelho2004@outlook.com 
-- LinkedIn: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/gabriel-coelho-765315350/)  
+- LinkedIn: [linkedin.com/in/GabrielCoelho](https://www.linkedin.com/in/gabriel-coelho-765315350/)  
 - WhatsApp: (22) 99738-4221  
 
 ---

@@ -23,7 +23,7 @@ Tenho facilidade em aprender e gosto de construir projetos práticos e funcionai
 
 ### 🚀 Tecnologias e Ferramentas
 
-- **Linguagens:** Java, C, C++, JavaScript
+- **Linguagens:** Java, C, C++
 - **Frameworks:** Spring Boot, React (básico)
 - **Banco de dados:** MySQL, PostgreSQL
 - **Ferramentas:** Git, GitHub, VS Code, NetBeans, MySQL Workbench, PgAdmin

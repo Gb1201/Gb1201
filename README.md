@@ -4,7 +4,7 @@ Sou o Gabriel dos Santos Silva Coelho!
 🎓 Graduando em Engenharia de Software na PUC Minas  
 🎧 Oralizado e usuário de aparelhos auditivos  
 📍 Natural de Cabo Frio – RJ    
-📊 Hoje estou no 3º período da graduação  
+📊 Hoje estou no 4º período da graduação  
 
 ---
 
